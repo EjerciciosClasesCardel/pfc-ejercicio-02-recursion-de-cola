@@ -1,4 +1,4 @@
-# Clase 2 — Recursión de cola
+# Ejercicio 2 — Recursión de cola
 
 Fundamentos de Programación Funcional y Concurrente
 Escuela de Ingeniería de Sistemas y Computación, Universidad del Valle
